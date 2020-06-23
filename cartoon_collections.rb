@@ -16,7 +16,7 @@ def summon_captain_planet(arr)
   cap_array
 end
 
-def long_planeteer_calls(array, length = false)
+def long_planeteer_calls(array)
   array.detect {|i| i.length > 4 }
   end
 end
