@@ -29,7 +29,7 @@ def find_the_cheese(arr)
   arr.each do |cheese|
     cheese_types.each do |type|
       if cheese == type
-        cheese
+        type
       end
     end
   end
