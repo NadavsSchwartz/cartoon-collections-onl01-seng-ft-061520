@@ -11,8 +11,9 @@ end
 def summon_captain_planet(arr)
   cap_array = []
   arr.each do |name|
-    cap_array << name.capitalize
+    cap_array << name.upcase + "!"
   end
+  cap_array
 end
 
 def long_planeteer_calls# code an argument here
