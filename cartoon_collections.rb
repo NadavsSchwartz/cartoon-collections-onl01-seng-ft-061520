@@ -8,7 +8,7 @@ i = 1
   end
 end
 
-def summon_captain_planet()
+def summon_captain_planet(arr)
   
 end
 
