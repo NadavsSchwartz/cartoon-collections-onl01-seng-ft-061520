@@ -32,5 +32,6 @@ def find_the_cheese(arr)
         type
       end
     end
+    type
   end
 end
