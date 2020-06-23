@@ -21,6 +21,7 @@ def long_planeteer_calls(array, length = false)
     if counter.length > 4
       true
     end
+    length
   end
 end
 
